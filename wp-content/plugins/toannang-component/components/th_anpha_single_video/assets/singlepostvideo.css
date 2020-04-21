@@ -1,0 +1,176 @@
+@media only screen and  (max-width: 850px){
+    .th_anpha_single_video >.container> .row{
+        display: flex;
+        flex-direction: column;
+    }
+    .th_anpha_single_video div#single-sidebar{
+        order: 2;
+        margin-top: 15px;
+    }
+}
+.th_anpha_single_video{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.th_anpha_single_video .content-single{
+    background-color: #fff;
+}
+.th_anpha_single_video li{
+    list-style: none;
+}
+.th_anpha_single_video .widget-sidebars aside{
+    border: 1px solid #4db848;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    background: #fff;
+}
+.th_anpha_single_video .widget-sidebars h3.widget-title{
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    background: #4db848;
+    padding:10px 15px;
+    margin:0;
+}
+.th_anpha_single_video  .box-content{
+    padding: 20px 25px;
+}
+.th_anpha_single_video ul.wigdet-menu li a{
+    display: block;
+    line-height: 26px;
+}
+.th_anpha_single_video ul.wigdet-menu li.lv1>a{
+    color: #fd772c;
+    font-size: 16px;
+}
+.th_anpha_single_video ul.submenu li > a{
+    padding-left: 35px;
+    color: #333
+}
+.th_anpha_single_video ul.wigdet-menu li a:hover{
+    color: #4db848 !important
+}
+.th_anpha_single_video ul.th_anpha_single_video .entry-content li > a:before{
+    font-family: 'Font Awesome 5 Free';
+    content: "\f054";
+    font-size: 11px;
+    padding-right: 5px;
+    left: 15px;
+    font-weight: 600;
+}
+.th_anpha_single_video .entry-header {
+    padding: 0px;
+    margin-bottom: 7px;
+    margin-top: 0px;
+}
+.th_anpha_single_video .entry-content p{
+    margin-bottom: 1em
+}
+.th_anpha_single_video .entry-content{
+    padding: 20px 30px 10px;
+    line-height: 26px;
+    box-shadow: 1px 1px 4px 0px #d7d8d9;
+}
+.th_anpha_single_video  .entry-footer{
+    margin-top: 25px;
+}
+
+.th_anpha_single_video h1.entry-title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fd772c;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 0px;
+
+}
+
+
+.th_anpha_single_video ul.wigdet-menu li{
+    list-style: none;
+}
+
+.th_anpha_single_video  .entry-footer{
+    margin-top: 25px;
+}
+.th_anpha_single_video h3.title-related{
+    color: #4db848;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+}
+.th_anpha_single_video.style1 h1.entry-title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fd772c;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 0px;
+
+}
+
+.th_anpha_single_video  .related-post .slick-slide {
+    margin: 0 4px;
+    height: auto;
+    box-shadow: 1px 1px 4px 1px #eee;
+    margin-bottom: 5px;
+}
+/* the parent */
+.th_anpha_single_video .related-post .slick-list {
+    margin: 0 -4px;
+}
+.th_anpha_single_video .related-post button.slick-arrow{
+    width: 28px;
+    height: 52px;
+    transform: translateY(-50%);
+    top: 50%;
+    border: none;
+    position: absolute;
+    background-image: url(../images/next.png);
+    overflow: hidden;
+    color: transparent;
+    z-index: 99
+}
+.th_anpha_single_video button.slick-prev.slick-arrow{
+    left: 0 !important;
+    background: url(../images/prev.png);
+}
+.th_anpha_single_video button.slick-next.slick-arrow {
+    right: 0 !important;
+    background: url(../images/next.png);
+
+}
+.th_anpha_single_video .related-item .desc{
+    text-align: center;
+    padding: 20px 15px 15px 12px;
+    background: #fff;
+    height: 87px;
+    overflow: hidden;
+}
+.th_anpha_single_video .related-item .desc h5{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 400;
+    line-height: 20px;
+}
+.th_anpha_single_video .related-item .desc h5 a{
+    color: #fd772c;
+}
+.th_anpha_single_video .related-item .desc h5 a:hover{
+    color: #d00;
+}
+.th_anpha_single_video .slick-prev:before, .th_anpha_single_video .slick-next:before{
+    content: '';
+}
+.th_anpha_single_video .tags{
+    font-size: 13px;
+}
+.th_anpha_single_video .tags a{
+    margin-left: 5px;
+    color: #ccc;
+}
+.th_anpha_single_video .tags a:hover{
+    color: #fd772c;
+}

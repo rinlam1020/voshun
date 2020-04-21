@@ -1,0 +1,14 @@
+.cy_khangphuc_slider{
+    overflow: hidden;
+}
+.cy_khangphuc_slider .metaslider{
+    margin: 0 auto;
+}
+.cy_khangphuc_slider .metaslider .flexslider:hover .flex-prev{
+    background: url("../images/btn-prev.png") no-repeat;
+    height: 48px;
+}
+.cy_khangphuc_slider .metaslider .flex-direction-nav .flex-next{
+    background: url("../images/btn-next.png") no-repeat;
+    height: 48px;
+}

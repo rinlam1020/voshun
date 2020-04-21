@@ -1,0 +1,86 @@
+.hc-khangphuc-single{
+	margin: 2em 0 1em;
+}
+.hc-khangphuc-single .title-single{
+	display: block;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 600;
+	margin: 0.6em 0 1em;
+	padding: 0.5em 0;
+	border-bottom: 1px solid #ddd;
+}
+.hc-khangphuc-single .content-single{
+	font-size: 13px;
+	line-height: 19px;
+
+}
+.hc-khangphuc-single .content-single img.aligncenter{
+	margin: 5px auto;
+	display: inherit;
+}
+.hc-khangphuc-single .fonlica_page_tag
+{
+	margin: 0.6em 0;
+	font-size: 12px;
+	line-height: 19px;
+}
+.hc-khangphuc-single .fonlica_page_tag a{
+	margin-right: 6px;
+	padding: 2px 5px;
+	border-radius: 3px;
+	border: 1px solid #eee;
+}
+.hc-khangphuc-single .fonlica_page_tag a:hover{
+	color: #d00;
+}
+.hc-khangphuc-single .sidebar{
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid;
+	border-color: rgba(129,129,129,.2);
+}
+.hc-khangphuc-single .sidebar .widgettitle{
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #2d2a2a;
+	margin-bottom: 20px;
+}
+.hc-khangphuc-single .sidebar ul li{
+	color: #bbb;
+	font-size: 14px;
+	display: block;
+	margin-bottom: 15px;
+}
+.hc-khangphuc-single .sidebar ul.children{
+	margin-top: 15px;
+	padding-left: 5px;
+}
+.hc-khangphuc-single .sidebar ul li a{
+	color: #727272;
+	display: inline-block;
+}
+.hc-khangphuc-single .sidebar ul li a:hover{
+	color: #d00;
+}
+
+.hc-khangphuc-single .sidebar:last-child {
+	padding-bottom: 0;
+	margin-bottom: 2em;
+	border-bottom: none;
+}
+
+.hc-khangphuc-single .recent-posts-widget-with-thumbnails img{
+	width: 25% !important;
+	height: auto !important;
+	display: inline-table;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.hc-khangphuc-single .recent-posts-widget-with-thumbnails .rpwwt-post-date{
+	display: inline-table;
+}
+.hc-khangphuc-single .recent-posts-widget-with-thumbnails a:hover{
+	color: #d00;
+}

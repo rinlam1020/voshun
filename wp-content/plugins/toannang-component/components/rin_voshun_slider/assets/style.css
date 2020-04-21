@@ -1,0 +1,50 @@
+
+
+.rin_xuongmayOH_slider{
+    max-width: 1920px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+}
+.rin_xuongmayOH_slider .slider_main{
+
+}
+.rin_xuongmayOH_slider .slider_main.slick-dotted.slick-slider{
+    margin:0;
+}
+.rin_xuongmayOH_slider .slider_main ul.slick-dots{
+    bottom: 15px!important;
+    width: auto;
+    display: block;
+    left: 0;
+    right: 0;
+}
+.rin_xuongmayOH_slider .slider_main ul.slick-dots li{
+   width: 18px!important;
+}
+.rin_xuongmayOH_slider .slick-slide img{
+    max-width: unset;
+}
+.rin_xuongmayOH_slider .slick-slide{
+    height: unset;
+}
+.rin_xuongmayOH_slider .slider_main ul.slick-dots li.slick-active button{
+    background-color: #e0b147!important;
+  box-shadow: 1.147px 1.638px 2px 0px rgba(71, 71, 71, 0.2);
+}
+
+
+.rin_xuongmayOH_slider .slider_main ul.slick-dots li button{
+    background-color: rgb(249, 244, 241);
+    box-shadow: 1.147px 1.638px 2px 0px rgba(71, 71, 71, 0.2);
+    width: 100%!important;
+    height: 18px;
+    padding: 0;
+    border-radius: 25px;
+}
+
+
+.rin_xuongmayOH_slider .slider_main ul.slick-dots li button:before{
+    content:'';
+}

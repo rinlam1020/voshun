@@ -1,0 +1,38 @@
+/*set color body*/
+body{
+    background-color: #f8f9fd;
+    font-family: "Open Sans";
+}
+/*css button form gravity*/
+.gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type=submit], .gform_wrapper .gform_page_footer input.button, .gform_wrapper .gform_page_footer input[type=submit] {
+    border: none;
+    padding: 10px 19px;
+    border-radius: 6px;
+    background-color: #2a449c;
+    color: #fff;
+}
+.gform_wrapper div.validation_error
+{
+    display: none;
+}
+.gform_wrapper li.gfield.gfield_error.gfield_contains_required div.gfield_description{
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 0;
+    padding-top: 2px;
+}
+.gform_wrapper li.gfield.gfield_error.gfield_contains_required{
+    border: none;
+}
+.mm-menu {
+    background: #2a449c;
+    border-color: rgba(0,0,0,.1);
+    color: #fff;
+}
+.mm-listview>li:not(.mm-divider):after,
+.mm-navbar{
+    border-bottom-color: #f5f5f51c;
+}
+.mm-menu .mm-navbar a, .mm-menu .mm-navbar>*{
+    color: #fff;
+}

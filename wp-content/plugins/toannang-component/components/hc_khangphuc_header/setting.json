@@ -1,0 +1,17 @@
+{
+  "Component Name": "HC Header phuc khang(woocommerce)(poly)",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Gói giao diện css header",
+  "Version": "1.0",
+  "Author": "Hoang Cuong",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "hc-phuckhang-header-css" : "css.css",
+            "hc-phuckhang-header-csript" : "script.js",
+            "select2-css" : "inc/select2/select2.min.css",
+            "select2-js" : "inc/select2/select2.min.js"
+        }
+}

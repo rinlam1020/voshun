@@ -1,0 +1,298 @@
+
+@font-face {
+    font-family: 'Helv';
+    src: url('fonts/helveticaneue.eot');
+    src: url('fonts/helveticaneue.eot') format('embedded-opentype'),
+         url('fonts/helveticaneue.woff2') format('woff2'),
+         url('fonts/helveticaneue.woff') format('woff'),
+         url('fonts/helveticaneue.ttf') format('truetype'),
+         url('fonts/helveticaneue.svg#helveticaneue') format('svg');
+}
+@font-face {
+    font-family: 'Helv-Bold';
+    src: url('fonts/helveticaneuebold.eot');
+    src: url('fonts/helveticaneuebold.eot') format('embedded-opentype'),
+         url('fonts/helveticaneuebold.woff2') format('woff2'),
+         url('fonts/helveticaneuebold.woff') format('woff'),
+         url('fonts/helveticaneuebold.ttf') format('truetype'),
+         url('fonts/helveticaneuebold.svg#helveticaneuebold') format('svg');
+}
+@font-face {
+    font-family: 'Helv-Light';
+    src: url('fonts/helveticaneuelight.eot');
+    src: url('fonts/helveticaneuelight.eot') format('embedded-opentype'),
+         url('fonts/helveticaneuelight.woff2') format('woff2'),
+         url('fonts/helveticaneuelight.woff') format('woff'),
+         url('fonts/helveticaneuelight.ttf') format('truetype'),
+         url('fonts/helveticaneuelight.svg#helveticaneuelight') format('svg');
+}
+@font-face {
+    font-family: 'Helv-Med';
+    src: url('fonts/helveticaneuemedium.eot');
+    src: url('fonts/helveticaneuemedium.eot') format('embedded-opentype'),
+         url('fonts/helveticaneuemedium.woff2') format('woff2'),
+         url('fonts/helveticaneuemedium.woff') format('woff'),
+         url('fonts/helveticaneuemedium.ttf') format('truetype'),
+         url('fonts/helveticaneuemedium.svg#helveticaneuemedium') format('svg');
+}
+.rin_voshun_header{
+    width: 100%;
+    max-width: 1920px;
+    position: relative;
+    z-index: 99;
+}
+.rin_voshun_header .topline{
+    width: 100%;
+    padding: 10px 0;
+    background: linear-gradient(to right,#8888ee,#2aac4a)
+}
+.rin_voshun_header .topline .info p{
+      font-size: 14px;
+    font-family: Helv;
+    color: #FFF;
+}
+.rin_voshun_header .row-flex{
+    display: flex;
+    align-items: center;
+}
+.rin_voshun_header .topline .info:nth-child(3) p{
+    font-size: 19px;
+}
+.rin_voshun_header .topline .info p i{
+         color: #6a66ad;
+    font-size: 22px;
+    margin-right: 10px;
+    transform: rotate(-35deg);
+}
+.rin_voshun_header .topline .info p span{
+      
+}
+.rin_voshun_header .topline .info p span a{
+  color: #FFF;
+}
+.rin_voshun_header .menu{
+  width: 100%;
+  padding:10px 0;
+      background: rgba(255,255,255,1);
+}
+.rin_voshun_header .menu .logo{
+
+}
+.response-img{
+  width: 50%;
+}
+
+
+.rin_voshun_header #main-menu{
+      width: 100%;
+      position: relative;
+}
+.rin_voshun_header .menu .menu_toggle{
+  font-size: 35px;
+    float: right;
+}
+.rin_voshun_header .menu .menu_toggle i{
+  background: -webkit-linear-gradient(#8a87ef, #2daa4f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.rin_voshun_header #search{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.rin_voshun_header #search input[type=text]{
+
+}
+.rin_voshun_header #search button{
+  
+}
+.rin_voshun_header #main-menu ul{
+      display: flex;
+      align-items: center;
+}
+.rin_voshun_header #main-menu ul li{
+      flex-grow: 2;
+      position: relative;
+      text-align: center;
+}
+.rin_voshun_header #main-menu ul li a{
+    font-family: Helv;
+    text-transform: uppercase;
+    color: #000;
+    display: block;
+    padding: 15px;
+}
+.rin_voshun_header #main-menu li:hover > ul{
+      display: block;
+}
+.rin_voshun_header #main-menu li:hover > ul li{
+     background: #9636f1;
+}
+.rin_voshun_header #main-menu li ul li:hover{
+     background: #fff;
+}
+.rin_voshun_header #main-menu li ul li:hover > a{
+     color: #9636f1;
+}
+
+.rin_voshun_header #main-menu li:hover > a{
+    color: #9636f1;
+}
+.rin_voshun_header #main-menu ul ul{
+    position: absolute;
+    display: none;
+    top: 100%;
+    left: 0;
+}
+.rin_voshun_header #main-menu ul ul li{
+    min-width: 250px;
+}
+.rin_voshun_header #main-menu ul ul li a{
+    color: #FFF;
+}
+.rin_voshun_header #main-menu ul ul ul{
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 100%;
+
+}
+
+
+
+
+
+
+.rin_voshun_header #main-menu2{
+      width: 100%;
+      position: relative;
+}
+.rin_voshun_header #search{
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
+.rin_voshun_header #search form{
+  display: flex;
+}
+.rin_voshun_header #search input[type=search]{
+  background-color: rgb(0, 0, 0,0.6);
+    border-radius: 2px;
+    border: none;
+    padding: 10px;
+    color: #FFF;
+}
+.rin_voshun_header #search input[type=search]::-webkit-input-placeholder{
+  color: #fff;
+  font-family: Arial;
+  font-style: italic;
+}
+.rin_voshun_header #search input[type=submit]{
+  border-radius: 2px;
+    background-color: rgb(74, 169, 67);
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.28);
+    border: none;
+    color: #fff;
+    padding: 10px;
+    min-width: 55px;
+}
+.rin_voshun_header #main-menu2 ul{
+      display: flex;
+      align-items: center;
+}
+.rin_voshun_header #main-menu2 ul li{
+      flex-grow: 2;
+      position: relative;
+      text-align: center;
+}
+.rin_voshun_header #main-menu2 ul li a{
+    font-family: Helv;
+    text-transform: uppercase;
+    color: #000;
+    display: block;
+    padding: 15px;
+}
+.rin_voshun_header #main-menu2 li:hover > ul{
+      display: block;
+}
+.rin_voshun_header #main-menu2 li:hover > ul li{
+     background: #9636f1;
+}
+.rin_voshun_header #main-menu2 li ul li:hover{
+     background: #fff;
+}
+.rin_voshun_header #main-menu2 li ul li:hover > a{
+     color: #9636f1;
+}
+
+.rin_voshun_header #main-menu2 li:hover > a{
+    color: #9636f1;
+}
+.rin_voshun_header #main-menu2 ul ul{
+    position: absolute;
+    display: none;
+    top: 100%;
+    left: 0;
+}
+.rin_voshun_header #main-menu2 ul ul li{
+    min-width: 250px;
+}
+.rin_voshun_header #main-menu2 ul ul li a{
+    color: #FFF;
+}
+.rin_voshun_header #main-menu2 ul ul ul{
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 100%;
+
+}
+.sticky-header.show{
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+}
+.mm-menu{
+      background: linear-gradient(to right,#8888ee,#2aac4a);
+}
+.mm-listview>li>a{
+  color: #FFF;
+  font-family: Helv;
+}
+@media screen and (max-width: 1199px){
+    .rin_voshun_header .menu-info-top .top .phoneline h6{
+        font-size: 13px;
+    }
+    .rin_voshun_header .menu-info-top .top .phoneline b{
+        display: none;
+    }
+}
+@media screen and (min-width: 993px){
+    .rin_voshun_header #main-menu{
+        display: none;
+    }
+    
+}
+@media screen and (max-width: 992px){
+    .rin_voshun_header #main-menu2{
+        display: none;
+    }
+
+}
+@media screen and (max-width: 750px){
+        .rin_voshun_header .phoneline2 h6 b{
+            display: none;
+        }
+        .rin_voshun_header .phoneline2{
+            float: left;
+        }
+}
+@media screen and (max-width: 500px){
+    .hide500{
+        display: none;
+    }
+    .pullwidth{
+        width: 60%;
+    }
+}

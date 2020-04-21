@@ -1,0 +1,115 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Toan Nang Component\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-19 11:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: components/lept_vape_footer/lept_vape_footer.php:39
+msgid ""
+"Chúng tôi là hệ thống cửa hàng chính hãng cung cấp tinh dầu, thân máy, đầu "
+"đốt, phụ kiện vape với sự phục vụ chuyên nghiệp và uy tín được đặt lên hàng "
+"đầu."
+msgstr ""
+
+#: components/lept_vape_menu/lept_vape_menu.php:32
+msgid "Danh mục sản phẩm"
+msgstr ""
+
+#: components/lept_vape_header/lept_vape_header.php:62
+msgid "Giỏ hàng"
+msgstr ""
+
+#: components/lept_vape_product3d_slicker/lept_vape_product3d_slicker.php:51
+#: components/lept_vape_product_dp/lept_vape_product_dp.php:99
+msgid "Gía: "
+msgstr ""
+
+#. Description of the plugin
+msgid "Gói mở rộng kích hoạt tính năng gói giao diện"
+msgstr ""
+
+#: components/lept_vape_footer/lept_vape_footer.php:52
+msgid "Gửi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/lamdeptrai"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://toannang.com.vn"
+msgstr ""
+
+#: components/lept_vape_footer/lept_vape_footer.php:49
+msgid "Hãy nhập email của bạn để nhận được thông tin mới nhất từ chúng tôi !"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lam Phan"
+msgstr ""
+
+#: components/lept_vape_header/functions.php:13
+msgid "languages"
+msgstr ""
+
+#: components/lept_vape_header/functions.php:15
+msgid "languages."
+msgstr ""
+
+#: components/lept_vape_footer/lept_vape_footer.php:51
+msgid "Nhập email..."
+msgstr ""
+
+#: components/hc_vape_single_1/functions.php:13
+msgid "Sidebar"
+msgstr ""
+
+#: components/hc_vape_single_1/functions.php:15
+msgid "Sidebar."
+msgstr ""
+
+#: components/lept_vape_product3d_slicker/lept_vape_product3d_slicker.php:29
+msgid "sản phẩm bán chạy"
+msgstr ""
+
+#: components/lam_phamthilanh_archive_product/lam_phamthilanh_archive_product.php:56
+msgid "Sản phẩm nổi bật"
+msgstr ""
+
+#: components/lept_vape_footer/lept_vape_footer.php:38
+msgid "Thông tin công ty"
+msgstr ""
+
+#: components/lept_vape_news/lept_vape_news.php:31
+msgid "Tin tức"
+msgstr ""
+
+#. Name of the plugin
+msgid "Toan Nang Component"
+msgstr ""
+
+#: components/lept_vape_header/lept_vape_header.php:48
+msgid "Tìm kiếm sản phẩm"
+msgstr ""
+
+#: components/hc_vape_archive_1/hc_vape_archive_1.php:54
+msgid "Xem thêm"
+msgstr ""
+
+#: components/lept_vape_news/lept_vape_news.php:58
+msgid "xem thêm"
+msgstr ""
+
+#: components/lept_vape_footer/lept_vape_footer.php:40
+msgid "Địa chỉ :"
+msgstr ""

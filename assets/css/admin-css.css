@@ -1,0 +1,12 @@
+.postbox .hndle, .stuffbox .hndle, .welcome-panel h2, h2.hndle.ui-sortable-handle, #poststuff h2,
+.metabox-holder h2.hndle, .postbox .hndle, .stuffbox .hndle, .settings_page_menu_editor .ui-dialog-titlebar
+{border-top-left-radius: 5px; border-top-right-radius: 5px;}
+.accordion-section-title:after, .handlediv, .item-edit, .postbox .handlediv.button-link, .toggle-indicator {
+    color: #fff;
+}
+.rml-modal-container .wrap .add-new-h2, .rml-modal-container .wrap .page-title-action{
+    padding: 6px 17px!important;
+}
+.media-modal-content .wp-core-ui .button-group.button-hero .button, .media-modal-content .wp-core-ui .button.button-hero{
+    line-height: inherit;
+}

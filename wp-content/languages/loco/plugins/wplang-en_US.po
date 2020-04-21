@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Language for thesis ( Beta)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-13 08:29+0000\n"
+"PO-Revision-Date: 2018-07-13 08:30+0000\n"
+"Last-Translator: admin <thanhlam.toannang@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wplang.php:78
+msgid "Sản phẩm"
+msgstr ""
+
+#: wplang.php:79
+msgid "Dự án"
+msgstr ""
+
+#: wplang.php:80
+msgid "Dịch vụ"
+msgstr ""
+
+#: wplang.php:81
+msgid "Sản phẩm nổi bật"
+msgstr ""
+
+#: wplang.php:82
+msgid "Tài liệu"
+msgstr ""
+
+#: wplang.php:83
+msgid "Bảng giá"
+msgstr ""
+
+#: wplang.php:84
+msgid "CTY CỔ PHẦN DỊCH VỤ KỸ THUẬT SAIGONTEC"
+msgstr ""
+
+#: wplang.php:86
+msgid "Tin tức"
+msgstr ""
+
+#: wplang.php:87
+msgid "Video"
+msgstr ""
+
+#: wplang.php:88
+msgid "Hoạt động"
+msgstr ""
+
+#: wplang.php:89
+msgid "Kết nối mạng xã hội"
+msgstr ""
+
+#: wplang.php:90
+msgid "Fanpage"
+msgstr ""
+
+#: wplang.php:92
+msgid "Liên hệ"
+msgstr ""
+
+#: wplang.php:93
+msgid "Đối tác"
+msgstr ""
+
+#: wplang.php:95
+msgid "Xem thêm"
+msgstr ""
+
+#: wplang.php:96
+msgid "Tìm kiếm"
+msgstr ""
+
+#: wplang.php:97
+msgid "Địa chỉ"
+msgstr ""
+
+#: wplang.php:98
+msgid "Trang Chủ"
+msgstr ""
+
+#: wplang.php:100
+msgid "Đây là của lệ rơi"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Language for thesis ( Beta)"
+msgstr ""
+
+#. Description of the plugin
+msgid "Multiple language for thesis ( wordpress)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Toan Nang Group"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://toannang.com.vn"
+msgstr ""

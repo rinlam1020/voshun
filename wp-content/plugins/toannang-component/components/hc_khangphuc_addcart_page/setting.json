@@ -1,0 +1,15 @@
+{
+  "Component Name": "HC KhangPhuc add to cart(woocommerce)",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Thêm sản phẩm vào giỏ hàng ngay trong trang cart",
+  "Version": "1.0",
+  "Author": "Hoang Cuong",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "hc_khangphuc_addcart_page-css" : "style.css",
+            "hc_khangphuc_addcart_page-js" : "script.js"
+        }
+}

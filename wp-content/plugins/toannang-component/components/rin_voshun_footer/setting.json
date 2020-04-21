@@ -1,0 +1,15 @@
+{
+  "Component Name": "Rin VoShun Footer",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Gói giao diện Voshun Footer",
+  "Version": "1.69",
+  "Author": "Sa Rin",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "voshun-footer-css" : "style.css"
+        }
+}
+

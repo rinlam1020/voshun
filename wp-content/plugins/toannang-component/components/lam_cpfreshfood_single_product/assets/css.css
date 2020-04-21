@@ -1,0 +1,1449 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=latin-ext,vietnamese');
+#lam_cpfreshfood_single_product{
+    background: #fff;
+    font-family: 'Roboto';
+    padding:50px 0;
+}
+#lam_cpfreshfood_single_product .single-about .title {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eeee;
+    padding: 11px 0;
+    color: #2f7054;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.3;
+}
+form.checkout.woocommerce-checkout .woocommerce-billing-fields__field-wrapper{
+	    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+form.checkout.woocommerce-checkout .form-row{
+	width:100%
+}
+form.checkout.woocommerce-checkout p#billing_first_name_field,form.checkout.woocommerce-checkout p#billing_address_1_field{
+	width:47%;
+}
+p#billing_address_1_field{
+	width: 47%;
+    overflow: visible;
+	float: right;
+}
+#lam_cpfreshfood_single_product .single-about .about-item{
+    border: 1px solid #eee;
+    padding: 10px;
+}
+#lam_cpfreshfood_single_product .single-about .item a{
+    display: flex;
+    align-items: center;
+    /* padding: 8px; */
+    /* border: 1px solid #2c6e52; */
+    color: #2c6e52;
+    margin-bottom: 10px;
+}
+#lam_cpfreshfood_single_product .single-about .item-img {
+    width: 25%;
+}
+#lam_cpfreshfood_single_product .single-abou .about-item{
+    padding: 10px;
+    border: 1px solid #eee;
+}
+#lam_cpfreshfood_single_product .to-contact-page {
+    display: block;
+    justify-content: flex-start;
+    margin: 20px 0;
+}
+.btn-slider-left.slick-arrow {
+    position: absolute;
+    top: 50%;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    left: 20px !important;
+    font-size: 40px;
+    color: #00a28f;
+    opacity: 0.5;
+}
+.qv_alt_details__slicks .slick-slide {
+    height: 110px !important;
+}
+
+.qv_alt_details__slicks .slick-slide {
+   width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.btn-slider-right.slick-arrow{
+    position: absolute;
+    top: 50%;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    right: 0 !important;
+    font-size: 40px;
+    color: #00a28f;
+    opacity: 0.5;
+}
+#lam_cpfreshfood_single_product .to-contact-page a{
+    display: inline-block;
+    background: #0c6baf;
+    padding: 10px 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#lam_cpfreshfood_single_product .page_chitiet{
+    background: #f8f8f8;
+    color: #3f3f3f;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick{
+    padding-right: 2px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick img{
+    width: auto;
+    height: 100%;
+    margin: auto;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab ul.nav{
+    display: flex;
+    justify-content: flex-start;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick a{
+    border: 1px solid #e1e1e1;
+    display: block;
+    height: 60px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    padding-bottom: 1px;
+}
+#lam_cpfreshfood_single_product .padding-6 {
+    padding: 6px;
+}
+#lam_cpfreshfood_single_product .xzoom-gallery,#lam_cpfreshfood_single_product .xzoom-gallery2,
+#lam_cpfreshfood_single_product .xzoom-gallery3,#lam_cpfreshfood_single_product .xzoom-gallery4,#lam_cpfreshfood_single_product .xzoom-gallery5{
+    box-shadow: 1px 1px 1px 0px rgba(0,0,0,0);
+}
+#lam_cpfreshfood_single_product .page_chitiet_zoom{
+    border: 1px solid #e1e1e1;
+}
+#lam_cpfreshfood_single_product .xzoom2,
+#lam_cpfreshfood_single_product .xzoom3,#lam_cpfreshfood_single_product .xzoom4,#lam_cpfreshfood_single_product .xzoom5{
+    box-shadow: 1px 1px 1px 0px rgba(0,0,0,0);
+    margin-bottom: 0;
+}
+#lam_cpfreshfood_single_product .page_chitiet .w62{
+    width: 62%;
+}
+#lam_cpfreshfood_single_product .page_chitiet .w38{
+    width: 38%;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick .slick-next{
+    width: 25px;
+    height: 15px;
+    right: 42%;
+    top: 0;
+    background: url('../images/arrow-up.png') no-repeat;
+    transition: 0.2s;
+    opacity: 0;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick .slick-prev{
+    z-index: 1;
+    width: 25px;
+    height: 15px;
+    left: 42%;
+    top: 100%;
+    background: url('../images/arrow-down.png') no-repeat;
+    opacity: 0;
+    transition: 0.2s;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick:hover .slick-next{
+    opacity: 1;
+    top: 2%;
+    transition: 0.2s;
+}
+#lam_cpfreshfood_single_product .page_chitiet_slick:hover .slick-prev{
+    top: 97%;
+    opacity: 1;
+    transition: 0.2s;
+}
+#lam_cpfreshfood_single_product .page_chitiet_zoom{
+    height: 400px;
+    overflow: hidden;
+}
+#lam_cpfreshfood_single_product .page_chitiet_zoom img{
+    width: 100%;
+    height: 100%;
+    max-width: inherit;
+    margin: auto;
+    display: block;
+    object-fit: cover;
+}
+#lam_cpfreshfood_single_product .woocommerce-product-rating{
+    margin-bottom: 0;
+}
+.count-view{
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+#lam_cpfreshfood_single_product .sidebarsss{
+        border: 1px solid #eee !important;
+    margin-top: 20px;
+}
+#lam_cpfreshfood_single_product .sidebarsss .ttle{
+    background: #147055;
+    color: #FFF;
+    padding: 10px;
+    font-size: 20px;
+}
+#lam_cpfreshfood_single_product .sidebarsss ul{
+
+}
+#lam_cpfreshfood_single_product .sidebarsss ul li{
+    position: relative;
+    display: flex;
+    align-items: center;
+        padding: 0px 15px;
+}
+#lam_cpfreshfood_single_product .sidebarsss ul li:before{
+    color: #ccc;
+    content: '\f054';
+    font-family: Font Awesome\ 5 Free;
+    font-weight: 600;
+        font-size: 11px;
+}
+#lam_cpfreshfood_single_product .sidebarsss ul li a{
+    color: #000;
+    display: block;
+    padding: 10px;
+}
+#lam_cpfreshfood_single_product .sidebarsss ul li a:hover{
+    color: #147055;
+}
+
+.woocommerce #lam_cpfreshfood_single_product div.product form.cart {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+#lam_cpfreshfood_single_product .addtoany_shortcode{
+    margin-bottom: 15px;
+}
+#lam_cpfreshfood_single_product .product_meta{
+    margin-top: 25x;
+    margin-bottom: 25px;
+}
+#lam_cpfreshfood_single_product .posted_in a{
+    font-size: 12px;
+    background: #0c6baf;
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 25px;
+}
+/*START RATING*/
+#lam_cpfreshfood_single_product .page_chitiet_danhgia{
+    font-size: 13.5px;
+    margin-bottom: 7px;
+}
+#lam_cpfreshfood_single_product .rating-widget{
+    display: inline-block;
+}
+#lam_cpfreshfood_single_product .rating-stars ul {
+    list-style-type:none;
+    padding:0;
+    -moz-user-select:none;
+    margin-bottom: 0;
+    -webkit-user-select:none;
+}
+#lam_cpfreshfood_single_product .rating-stars ul > li.star {
+    display:inline-block;
+    margin-left: -3px;
+}
+#lam_cpfreshfood_single_product .rating-stars ul > li.star > i.fa {
+    font-size: 14px;
+    color:#ccc;
+}
+#lam_cpfreshfood_single_product .rating-stars ul > li.star.hover > i.fa {
+    color:#ffc000;
+}
+#lam_cpfreshfood_single_product .rating-stars ul > li.star.selected > i.fa {
+    color:#ffc000;
+}
+/*CHON SIZE*/
+#lam_cpfreshfood_single_product .box-slect-size{
+    padding: 11px 11px;
+    border: 1px solid #dad9d7;
+    color: #585858;
+    font-size: 9px;
+    margin-top: 6px;
+}
+#lam_cpfreshfood_single_product .detail-selection-size {
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    font-size: 13px;
+}
+#lam_cpfreshfood_single_product .detail-selection-size > input[type="radio"] {
+    margin: 4px 0 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    min-width: 30px;
+    line-height: 20px;
+    padding: 0 5px;
+}
+#lam_cpfreshfood_single_product .detail-pl-size label > input[type="radio"]:checked + div {
+    border:1px solid #00aeef;
+}
+#lam_cpfreshfood_single_product .page_chitiet_name{
+    margin: 0;
+    font-size: 14px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_conhang{
+    display: inline-block;
+    color: #00aeef;
+    border: 1px solid #00aeef;
+    border-radius: 24px;
+    padding: 2px 24px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_hethang{
+    display: inline-block;
+    color: #e00e11;
+    border: 1px solid #e00e11;
+    border-radius: 24px;
+    padding: 2px 24px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_price{
+
+    font-size: 24px;
+    color: #e00e11;
+    margin-bottom: 2px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_price sup{
+    font-size: 16px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_details button{
+    border: none;
+    width: 94%;
+    background: #ed1c24;
+    color: #fff;
+    font-size: 21px;
+    text-transform: uppercase;
+    padding: 15px 0;
+    transition: 0.3s;
+    margin: 10px 0 17px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_details button:hover{
+    background: #00aeef;
+    transition: 0.3s;
+}
+#lam_cpfreshfood_single_product .page_chitiet_details_list span{
+    display: block;
+    margin-bottom: 15px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_details_list p{
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_details_list img{
+    margin-right: 4px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_details_list strong{
+    font-size: 13px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tittle span{
+    display: block;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    color:#137055;
+    text-transform: uppercase;
+    font-size: 21px;
+    font-weight: bold;
+    border-bottom: 1px solid #137055;
+    margin-top: 40px;
+    position: relative;
+
+}
+#lam_cpfreshfood_single_product .entry-summary{display: inline-block}
+#lam_cpfreshfood_single_product  .qv_alt_details__img--items a img{
+    margin: 0 auto;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tittle span:after{
+    width: 120px;
+    height: 2px;
+    content: '';
+    background: #137055;
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_right{
+    background: #fff;
+    padding: 14px 12px 35px;
+    margin-bottom: 20px;
+    margin-top: 8px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_right #lam_cpfreshfood_single_product .page_chitiet_masp{
+    margin-bottom: 5px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_right button,#lam_cpfreshfood_single_product .page_chitiet_bottom_right a.button{
+    border: none;
+    width: 100%;
+    background: #ed1c24;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 15px 0;
+    transition: 0.3s;
+    margin: 15px 0 17px;
+    text-align: center;
+    font-weight: bold;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_right button:hover, #lam_cpfreshfood_single_product .page_chitiet_bottom_right a.button:hover{
+    background: #00aeef;
+    transition: 0.3s;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_right p{
+    margin-bottom: 0;
+    font-size: 13px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom{
+    padding: 10px;
+    background: #fff;
+    margin-bottom: 25px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_details p{
+    padding: 10px 10px;
+    background: #ededed;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_img{
+    height: 336px;
+    overflow: hidden;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_img img{
+    width: auto;
+    height: 100%;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab{
+    border: 1px solid #eee !important;
+    background: #fff;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+    background: #147055;
+    color: #fff;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .nav-pills > li > a{
+    border-radius: 0;
+}
+
+#lam_cpfreshfood_single_product .page_chitiet_tab .nav > li > a{
+    padding: 9px 15px;
+    color: #147055;
+
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid #147055;
+    margin-right: -3px;
+    display: block;
+}
+#lam_cpfreshfood_single_product img.aligncenter{
+    margin: auto;
+    display: block;
+}
+#lam_cpfreshfood_single_product #tab_details_1 iframe{
+    max-width: 100%;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .nav > li > a:hover{
+    background: #147055;
+    color: #fff;
+    border: 1px solid #147055;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab #lam_cpfreshfood_single_product .page_chitiet_tab_img{
+    text-align: center;
+    margin: 10px 0;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab_img img{
+    width: 80%;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .tab-content{
+
+    margin-top: -1px;
+    padding: 15px 15px 40px;
+    line-height: normal;
+    font-size: 14px;
+    color: #333;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .tab-content span{
+
+}
+#lam_cpfreshfood_single_product .comment-form-author label,
+#lam_cpfreshfood_single_product .comment-form-email label{
+    width: 8%;
+}
+#lam_cpfreshfood_single_product .comment-form-author input,
+#lam_cpfreshfood_single_product .comment-form-email input{
+    height: 30px;
+    border: 1px solid #e8e8e8;
+    padding: 5px 15px;
+    margin-bottom: 5px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .tab-content #comments > span {
+    font-weight: bold;
+    margin-bottom: 34px;
+    display: block;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .tab-content #comments ol.commentlist li .comment-text {
+    margin: 0 0 0 70px;
+    border: 1px solid #eaeaea;
+    border-radius: 0px;
+    padding: 1em 1em 0;
+    background: #fafafa;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .tab-content #comments ol.commentlist li img.avatar {
+    float: left;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 3px;
+    width: 60px;
+    height: auto;
+    background: #ebe9eb;
+    border: 1px solid #e4e1e3;
+    margin: 0;
+    box-shadow: none;
+    border-radius: 50%;
+}
+#lam_cpfreshfood_single_product .page_chitiet_tab .tab-content p{
+    font-size: 14px;
+    line-height: 25px;
+    text-align: justify;
+}
+#lam_cpfreshfood_single_product .woocommerce-review__author{
+    font-size: 17px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_details{
+    display: flex;
+    flex-wrap: wrap;
+}
+#lam_cpfreshfood_single_product #review_form #respond textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid #e8e8e8;
+    height: 120px;
+    padding: 5px 15px;
+}
+#lam_cpfreshfood_single_product .page_chitiet_bottom_details p{
+    width: 100%;
+}
+.woocommerce #lam_cpfreshfood_single_product #reviews h3 {
+    margin: 0;
+    margin-bottom: 11px;
+    font-family: inherit;
+    font-size: 13px;
+}
+#lam_cpfreshfood_single_product .woocommerce-review__published-date{
+    background: #0872c6;
+    border-radius: 25px;
+    padding: 0px 14px;
+    color: #fff;
+    font-size: 11px;
+    line-height: 18px;
+    display: inline-block;vertical-align: text-bottom;
+}
+#lam_cpfreshfood_single_product #review_form #respond .form-submit input {
+    left: auto;
+    padding: 12px 25px;
+    background: transparent;
+    border: 1px solid #0872c6;
+    color: #0872c6;
+}
+.woocommerce #lam_cpfreshfood_single_product #review_form #respond p.stars{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 20px;
+}
+#lam_cpfreshfood_single_product .woocommerce p.stars a::before{
+    font-size: 20px;
+}
+.woocommerce #lam_cpfreshfood_single_product #review_form #respond p {
+    margin: 0 0 10px;
+    line-height: 15px;
+    margin-bottom: 5px;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product .product_title {
+    font-size: 20px;
+    color: #147055;
+    margin: 0 0 10px;
+    font-family: inherit;
+    text-align: left;
+    text-transform: initial;
+    line-height: initial;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+.woocommerce #lam_cpfreshfood_single_product .count-view{
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+    background: #4aa943;
+    width: auto;
+    max-width: 150px;
+    margin: 10px;
+    margin-bottom: 20px;
+    color: #FFF;
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.woocommerce #lam_cpfreshfood_single_product .count-view i{
+    margin-right: 10px;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product p.price del,.woocommerce #lam_cpfreshfood_single_product div.product span.price del {
+    opacity: .5;
+    display: inline-block;
+    color: #777;
+    font-size: 12px;
+    font-weight: 300;
+    font-family: inherit;
+
+}
+.woocommerce #lam_cpfreshfood_single_product div.product p.price {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product p.price ins,.woocommerce #lam_cpfreshfood_single_product div.product span.price ins,
+.woocommerce #lam_cpfreshfood_single_product div.product p.price,.woocommerce #lam_cpfreshfood_single_product div.product span.price{
+    text-decoration: inherit;
+    font-family: inherit;
+    font-size: 20px;
+    color: #e00e11;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+#lam_cpfreshfood_single_product .woocommerce-product-details__short-description{
+    font-size: 14px !important;
+    padding: 10px 0;
+}
+#lam_cpfreshfood_single_product p.price:before {
+    content: 'Giá: ';
+    color: red;
+    font-size: 15px;
+}
+
+
+#lam_cpfreshfood_single_product .reset_variations {
+    font-size: .83em;
+    display: inline-block;
+    vertical-align: inherit;
+    line-height: 20px;
+}
+.woocommerce #lam_cpfreshfood_single_product .star-rating span::before, .woocommerce p.stars a {
+    color: #ffdf41;
+}
+.woocommerce #lam_cpfreshfood_single_product .quantity .qty{
+    height: 35px;
+    vertical-align: text-bottom;
+    margin-top: -7px;
+    width: 45px;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+}
+#lam_cpfreshfood_single_product .product_origin{
+    margin-bottom: 20px;
+}
+#lam_cpfreshfood_single_product .block-reassurance li{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+#lam_cpfreshfood_single_product .block-reassurance li img{
+    vertical-align: middle;
+    margin-right: 15px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+#lam_cpfreshfood_single_product .dt3d_amount{
+
+    margin-top: 15px;
+}
+#lam_cpfreshfood_single_product .dt3d_amount label{
+    float: left;
+    margin-right: 10px;
+}
+
+.woocommerce #lam_cpfreshfood_single_product div.product form.cart .btn-mua-ngay{
+    vertical-align: middle;
+    float: left;
+    border: none;
+    width: 30%;
+    background: #ed1c24;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: inherit;
+    padding: 15px 0;
+    transition: 0.3s;
+    margin: 10px 0 17px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 15px;
+    margin-right: 13px;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product form.cart .btn-mua-ngay:hover{
+    text-decoration: none;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product form.cart .button {
+    vertical-align: middle;
+    float: left;
+    border: none;
+    width: 30%;
+    background: #147055 !important;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: inherit;
+    padding: 10px 0;
+    transition: 0.3s;
+    margin: -7px 10px 16px;
+    border: 1px solid #147055;
+    line-height: 12px;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product form.cart .button:hover{
+    background: #78a206 !important;
+    border: 1px solid #78a206;
+    color: #fff;
+}
+#lam_cpfreshfood_single_product #lam_cpfreshfood_single_product .page_chitiet_details_list img.alignleft{
+    display: inline-block;
+}
+.woocommerce #lam_cpfreshfood_single_product span.onsale{
+    width: 50px;
+    height: 50px;
+    background: #ed1c24;
+    line-height: 15px;
+    padding: 12px 10px;
+    text-align: center;
+    left: 9em;
+    font-size: 11px;
+    top: 15px;
+    font-weight: 100;
+}
+.up-sells{
+    display: inline-block;
+    width: 100%;
+}
+#lam_cpfreshfood_single_product .comment-form-cookies-consent{
+    display: none;
+}
+.woocommerce #lam_cpfreshfood_single_product #respond input#submit.alt,.woocommerce #lam_cpfreshfood_single_product a.button.alt,.woocommerce #lam_cpfreshfood_single_product button.button.alt, .woocommerce #lam_cpfreshfood_single_product input.button.alt {
+    background-color: #00aeef;
+    color: #fff;
+}
+.woocommerce #lam_cpfreshfood_single_product #respond input#submit.alt:hover,.woocommerce #lam_cpfreshfood_single_product a.button.alt:hover,
+.woocommerce #lam_cpfreshfood_single_product button.button.alt:hover,.woocommerce #lam_cpfreshfood_single_product input.button.alt:hover {
+    background-color: #00aeef;
+}
+.woocommerce #lam_cpfreshfood_single_product form .form-row input.input-text,.woocommerce #lam_cpfreshfood_single_product form .form-row textarea{
+    height: 40px;
+    padding: 5px 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    color: #777;
+}
+#lam_cpfreshfood_single_product .product_sw_group .col{
+    width: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+}
+#lam_cpfreshfood_single_product .product_sw_group .wrapper{
+    border: 1px solid #c8c8c8;
+}
+#lam_cpfreshfood_single_product .product_sw_group .wrapper .img-box{
+    position: relative;
+    height: 210px;
+    overflow: hidden;
+}
+#lam_cpfreshfood_single_product .product_sw_group .wrapper .img-box .ribbon {
+    position: absolute;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 11px;
+    padding: 3px 4px;
+    background-color: #000;
+    color: #fff;
+    font-weight: 600;
+    top: 3px;
+    right: 3px;
+}
+#lam_cpfreshfood_single_product .product_sw_group .wrapper .img-box img {
+    display: block;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+#lam_cpfreshfood_single_product .product_sw_group .info-box .prod-name, #lam_cpfreshfood_single_product .product_sw_group .info-box .prod-name {
+    font-weight: 600;
+    color: #2a2624;
+    font-size: 14px;
+    line-height: 20px;
+    height: 20px;
+    overflow: hidden;
+    margin: 0px 10px;
+}
+#lam_cpfreshfood_single_product  .info-box .product_sw_price{
+    font-size: 13px;
+    color: #e05b66;
+    font-weight: bold;
+}
+#lam_cpfreshfood_single_product  .info-box .product_sw_price .regular-price{
+    text-decoration: line-through;
+    color: #777;
+    font-size: 11px;
+}
+
+#lam_cpfreshfood_single_product  .info-box .price {
+    font-size: 14px;
+    line-height: 20px;
+    color: #d5222e;
+    margin-bottom: 3px
+}
+#lam_cpfreshfood_single_product  .info-box .rating {
+    margin-bottom: 4px;
+}
+#lam_cpfreshfood_single_product  .info-box .rating ul li{
+    padding: 0px;
+    font-size: 13px;
+    padding: 0px;
+    font-size: 11px;
+    margin: -1px;
+}
+#lam_cpfreshfood_single_product  .info-box .rating ul li .fa-star{
+    color: gold;
+}
+#lam_cpfreshfood_single_product .ttct{
+
+}
+#lam_cpfreshfood_single_product .ttct ul{
+padding: 0;
+}
+#lam_cpfreshfood_single_product .ttct li{
+    list-style: none;
+    border: 1px solid #c8c8c8;
+    margin-top: -1px;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#lam_cpfreshfood_single_product .ttct li div{
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 11px;
+    margin-bottom: 10px;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+    height: 40px;
+    padding: 5px 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    color: #777;
+    font-size: 13px;
+}
+.woocommerce form .form-row textarea {
+    height: 120px;
+}
+.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background-color: #cb352f;
+    color: #fff;
+}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: #137055 !important;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+}
+
+#lam_cpfreshfood_single_product div.product form.cart .variations label {
+    font-weight: 700;
+    font-size: 13px;
+    color: #777;
+}
+#lam_cpfreshfood_single_product div.product form.cart .variations{
+    width: auto;
+    margin-top: 20px;
+}
+#lam_cpfreshfood_single_product div.product form.cart .variations .value{
+    width: 80%;
+}
+#lam_cpfreshfood_single_product .tawcvs-swatches {
+    margin-top: -10px;
+    display: inline-block;
+}
+#lam_cpfreshfood_single_product .tawcvs-swatches .swatch-label {
+    background-color: #ffffff;
+    width: auto;
+    height: 30px;
+    border-radius: 0;
+    border: 1px solid #000;
+    margin-bottom: 8px;
+    padding: 0 11px;
+}
+#lam_cpfreshfood_single_product .tawcvs-swatches .swatch {
+    border: 0;
+    width: 45px;
+    border-radius: 0;
+}
+#lam_cpfreshfood_single_product .tawcvs-swatches .swatch.selected:before {
+    left: 19px;
+}
+#lam_cpfreshfood_single_product .tawcvs-swatches .swatch.selected {
+     opacity: 1;
+     box-shadow: none;
+     background: #000;
+     color: #fff;
+     border: 0;
+ }
+#lam_cpfreshfood_single_product .product-tab-list li a::before {
+    background: #78a206 none repeat scroll 0 0;
+    bottom: -12.5px;
+    content: "";
+    height: 2px;
+    left: 0;
+    margin: 0 auto;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    -webkit-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    width: 45px;
+}
+
+#lam_cpfreshfood_single_product .tab-content > .tab-pane.active {
+    display: block;
+    height: auto;
+    opacity: 1;
+    overflow: visible;
+	padding:10px;
+}
+#lam_cpfreshfood_single_product .tab-content > .tab-pane {
+    display: block;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+#lam_cpfreshfood_single_product .products_tab_button ul.product_navactive{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+#lam_cpfreshfood_single_product .page_title{
+    background: aliceblue;
+    margin-bottom: 30px;
+}
+#lam_cpfreshfood_single_product .products_tab_button ul.product_navactive li{
+
+    width: 20%;
+}
+#lam_cpfreshfood_single_product .products_tab_button ul.product_navactive li a {
+    border: 1px solid #ddd;
+    margin: 0 5px;
+}
+#lam_cpfreshfood_single_product .products_tab_button ul.product_navactive li.active a,
+#lam_cpfreshfood_single_product .products_tab_button ul.product_navactive li a:hover{
+    border-color: #78A206;
+    background: transparent;
+}
+#lam_cpfreshfood_single_product .products_tab_button ul.product_navactive li a img{
+    max-width: 100%;
+    object-fit: contain;
+}
+#lam_cpfreshfood_single_product .col-item .item .item-img {
+    overflow: hidden;
+    position: relative;
+    border: none!important;
+    border-radius: 2px;
+}
+#lam_cpfreshfood_single_product .item .item-content {
+        width: 75%;
+    margin-left: 10px;
+}
+#lam_cpfreshfood_single_product .item .item-content p.titleq{
+        font-size: 13px;
+    font-weight: 600;
+}
+#lam_cpfreshfood_single_product .item .item-content p.desc{
+    font-size: 12px;
+    color: #000;
+}
+#lam_cpfreshfood_single_product .item .item-content h5 {
+    text-align: left;
+    padding: 10px 0;
+}
+#lam_cpfreshfood_single_product  .item-content h5 a {
+    color: #202020;
+    font-size: 14px;
+    font-family: Helv;
+}
+#lam_cpfreshfood_single_product .item .item-content .gia {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+#lam_cpfreshfood_single_product .item .item-content .gia .gia1 {
+    font-size: 18px;
+    font-family: Helv;
+    /* margin: 0!important; */
+    color: #199427;
+    font-weight: bold;
+}
+#lam_cpfreshfood_single_product .item .item-content .gia .gia2 {
+    text-decoration: line-through;
+    color: #a2a2a2;
+    font-size: 13px;
+    font-family: "HelveticaNeue";
+    display: none;
+}
+#lam_cpfreshfood_single_product .col-item .item .item-img .giohang {
+    position: absolute;
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    top: 50%;
+    left: 50%;
+    bottom: 0;
+    margin: auto;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    opacity: 0;
+    visibility: hidden;
+    width: 63%;
+    height: 46px;
+    align-items: center;
+    border-radius: 27px;
+    color: #fff;
+    background: #23894E;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: none;
+}
+#lam_cpfreshfood_single_product .col-item .item:hover .giohang {
+    opacity: 1;
+    visibility: visible;
+}
+
+#lam_cpfreshfood_single_product .item .item-img .giohang>a {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    width: 100%;
+    color: #fff;
+    background-color: transparent;
+    display: none;
+}
+.template-page .select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    height: 40px;
+}
+.template-page .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #777;
+    line-height: 40px;
+    font-size: 13px;
+}
+.template-page .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 38px;
+}
+.template-page .woocommerce table.shop_table td {
+    border-top: 1px solid rgba(0,0,0,.1);
+    padding: 6px 12px;
+    vertical-align: middle;
+    font-size: 15px;
+}
+.template-page .woocommerce form .form-row textarea{
+    height: 120px;
+}
+.cy_denchieusang_home_product  .col-item .item .item-img {
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #ebebeb;
+    border-radius: 2px;
+}
+
+.cy_denchieusang_archive_product .item .item-content {
+    padding: 10px 20px;
+}
+.cy_denchieusang_home_product .col-item .item {
+        background: #fff;
+    border: 1px solid #eee;
+    font-family: Helv;
+    padding: 10px;
+     }
+.cy_denchieusang_home_product .col-item .item:hover {
+    border-color: #199427;
+}
+.cy_denchieusang_home_product .col-item .item .img-box {
+    display: table;
+    width: 100%; }
+.cy_denchieusang_home_product .col-item .item .img-box .box {
+    overflow: hidden;
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+    height: 174px; }
+
+#lam_cpfreshfood_single_product  .related-product .slick-slide {
+    margin: 0 15px;
+}
+/* the parent */
+#lam_cpfreshfood_single_product  .related-product .slick-list {
+    margin: 0 -15px;
+}
+
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+    border: 1px solid;
+    border-color: #eee;
+    padding: 10px!important;
+    transition: all 1s ease-out;
+}
+.border{
+    border-color: #199427!important;
+}
+.upsells h2{
+    color: #137055;
+    text-transform: uppercase;
+    font-size: 21px;
+    font-weight: bold;
+    border-bottom: 1px solid #137055;
+    padding-bottom: 15px;
+    margin-bottom: 40px;
+}
+.woocommerce #lam_cpfreshfood_single_product span.onsale{
+    position: absolute;
+    top: -5px!important;
+    right: -5px!important;
+    left: unset!important;
+}
+.woocommerce ul.products li.product .woocommerce-loop-product__title{
+    font-size: 14px!important;
+    font-family: Helv;
+    color: #000;
+    border-bottom: transparent;
+    text-transform: unset;
+    font-weight: unset;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product span.price{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    flex-direction: row;
+    margin:0!important;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product span.price del{
+    font-size: 11px;
+    display: none;
+}
+.woocommerce #lam_cpfreshfood_single_product div.product span.price ins{
+    font-size: 18px;
+    margin: 0!important;
+    color: #199427;
+}
+.woocommerce ul.products li.product .button{
+    position: absolute;
+    display: none;
+}
+@media screen and (max-width: 1229px) {
+    .cy_denchieusang_home_product .col-item .item .img-box .box {
+        height: 168px; } }
+@media screen and (max-width: 1199px) {
+    .cy_denchieusang_home_product .col-item .item .img-box .box {
+        height: 187px; } }
+.cy_denchieusang_home_product .col-item .item .img-box .box img {
+    display: block;
+    max-height: 100%;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease; }
+.cy_denchieusang_home_product .col-item .item .img-box:hover img {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2); }
+.cy_denchieusang_home_product .col-item .item .price {
+    font-weight: bold;
+    color: #1a2da0;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 15px;
+    margin-top: 5px; }
+.cy_denchieusang_home_product .col-item .item .title a {
+    display: block;
+    font-size: 14px;
+    line-height: 20px;
+    color: #131313;
+    margin-bottom: 8px; }
+.cy_denchieusang_home_product .col-item .item .btn-view {
+    position: relative;
+    margin-top: 12px;
+    display: inline-block;
+    font-size: 11px;
+    line-height: 15px;
+    color: #fff;
+    padding: 5px 14px;
+    background-color: #0872c6;
+    -webkit-transition: background-color 0.3s ease;
+    -moz-transition: background-color 0.3s ease;
+    -ms-transition: background-color 0.3s ease;
+    -o-transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease; }
+.cy_denchieusang_home_product .col-item .item .btn-view:hover {
+    background-color: #ff8400; }
+.cy_denchieusang_home_product .col-item .item .btn-view:after {
+    content: "";
+    position: absolute;
+    top: -12px;
+    left: 0;
+    right: 0;
+    border-top: 1px solid #e1e1e1; }
+@media screen and (max-width: 1920px) {
+    #lam_cpfreshfood_single_product .product_sw_group .col{
+        width: 20%;
+    }
+}
+@media screen and (max-width: 1023px) {
+    #lam_cpfreshfood_single_product .product_sw_group .col{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 1280px) {
+    #lam_cpfreshfood_single_product .product_sw_group .col{
+        width: 33.3333%;
+    }
+}
+@media screen and (max-width: 767px) {
+    #lam_cpfreshfood_single_product .product_sw_group .col{
+        width: 100%;
+    }
+    .woocommerce #lam_cpfreshfood_single_product div.product form.cart .btn-mua-ngay,
+    .woocommerce #lam_cpfreshfood_single_product div.product form.cart .button{
+        width: 45%;
+    }
+    #lam_cpfreshfood_single_product .page_chitiet_tab .tab-content {
+        border:0;
+        margin-top: -1px;
+        padding: 0;
+        line-height: normal;
+        font-size: 14px;
+        color: #333;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+	#lam_cpfreshfood_single_product .page_chitiet_tab .nav > li > a{
+		font-size:12px !important;
+	}
+}
+#lam_cpfreshfood_single_product .product-item {
+    padding: 0px; }
+#lam_cpfreshfood_single_product .product-item .wrapper {
+
+    border: 1px solid transparent;
+    -webkit-transition: border 0.3s ease;
+    -moz-transition: border 0.3s ease;
+    -ms-transition: border 0.3s ease;
+    -o-transition: border 0.3s ease;
+    transition: border 0.3s ease; }
+#lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+    overflow: hidden;
+    height: 195px; }
+@media screen and (max-width: 1919px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 165px; } }
+@media screen and (max-width: 1679px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 189px; } }
+@media screen and (max-width: 1439px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 195px; } }
+@media screen and (max-width: 1365px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 195px; } }
+@media screen and (max-width: 1199px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 195px; } }
+@media screen and (max-width: 991px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 165px; } }
+@media screen and (max-width: 767px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .img-box {
+        height: 195px; } }
+#lam_cpfreshfood_single_product .product-item .wrapper .img-box img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease; }
+#lam_cpfreshfood_single_product .product-item .wrapper .img-box a {
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+#lam_cpfreshfood_single_product .product-item .wrapper .img-box:hover img {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2); }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box {
+    text-align: center; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .title a {
+    display: block;
+    color: #242424;
+	padding: 10px;
+    -webkit-transition: color 0.3s ease;
+    -moz-transition: color 0.3s ease;
+    -ms-transition: color 0.3s ease;
+    -o-transition: color 0.3s ease;
+    transition: color 0.3s ease;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 23px;
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 58px;
+
+    align-items: center;
+    justify-content: center;
+    background: #0b619e;
+    color: #fff;
+    text-transform: uppercase; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .title a:hover {
+    color: #06a23a; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .price {
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    margin-bottom: 5px; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .price span {
+    padding: 0 10px; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .price__new {
+    color: #2db716;
+    font-weight: 600;
+    display: inline-block; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .price__old {
+    font-size: 14px;
+    display: inline-block;
+    color: #b7b7b7;
+    text-decoration: line-through; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .unit {
+    margin-bottom: 10px;
+    color: #444444;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .product__hover {
+    border-top: 1px solid #ebebeb;
+    padding-top: 7px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .product__hover ul {
+    text-align: center; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .product__hover ul li {
+    display: inline-block;
+    padding: 0 5px; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .product__hover ul li a {
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    line-height: 43px;
+    background-color: #eceaed;
+    text-align: center;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    color: #06a23a;
+    -webkit-transition: background-color 0.3s ease, color 0.3s ease;
+    -moz-transition: background-color 0.3s ease, color 0.3s ease;
+    -ms-transition: background-color 0.3s ease, color 0.3s ease;
+    -o-transition: background-color 0.3s ease, color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease; }
+#lam_cpfreshfood_single_product .product-item .wrapper .info-box .product__hover ul li a:hover {
+    background-color: #06a23a;
+    color: #fff; }
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 992px) {
+    #lam_cpfreshfood_single_product .product-item .wrapper .info-box .product__hover {
+        opacity: 0;
+        visibility: hidden; } }
+#lam_cpfreshfood_single_product .product-item:hover .wrapper {
+    border-color: #00a651; }
+#lam_cpfreshfood_single_product .product-item:hover .wrapper .info-box .product__hover {
+    opacity: 1;
+    visibility: visible; }

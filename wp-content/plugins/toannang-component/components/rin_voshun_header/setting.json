@@ -1,0 +1,16 @@
+{
+  "Component Name": "Rin VoShun Header",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Gói giao diện Voshun Header ",
+  "Version": "1.69",
+  "Author": "Sa Rin",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "voshun-header-fontawesome" : "inc/fontawesome-animation.css",
+            "voshun-header-css" : "style.css",
+            "voshun-header-js" : "script.js"
+        }
+}

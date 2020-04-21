@@ -1,0 +1,315 @@
+.componnet-tns #adminmenu .wp-submenu-head,
+.componnet-tns #adminmenu a.menu-top,
+.componnet-tns #adminmenu .wp-has-current-submenu ul>li>a,
+.componnet-tns .folded #adminmenu li.menu-top .wp-submenu>li>a,
+.componnet-tns #adminmenu .wp-not-current-submenu li>a,
+.componnet-tns .folded #adminmenu .wp-has-current-submenu li>a,
+.componnet-tns #collapse-menu{
+    border-bottom: 1px solid #ffffff0a;
+}
+.componnet-tns .component-title{
+    margin-bottom: 0;
+}
+.componnet-tns .clear {
+    clear: both;
+    float: none;
+}
+.componnet-tns .addons h3{
+    font-weight: bold;
+    font-size: 17px;
+    text-transform: inherit;
+}
+.componnet-tns .tncp-info{
+    margin-top: 20px;
+}
+.componnet-tns .tncp-info p {
+    font-size: 14px;
+}
+.componnet-tns .tncp_boxes {
+    display: -webkit-flex;
+    -webkit-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    position: relative;
+}
+.componnet-tns .tncp_box {
+    width: 31%;
+    min-height: 160px;
+    overflow: inherit !important;
+    display: block;
+    float: left;
+    position: relative;
+    margin: 10px 15px;
+}
+.componnet-tns .tncp_box h3 {
+    padding: 8px 8px 8px 35px;
+    font-size: 13px;
+    cursor: default !important;
+    margin: 0;
+    position: relative;
+}
+.componnet-tns .tncp_box input.cmpchecked{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+.componnet-tns .tncp_box.disable {
+    background: none;
+    position: relative;
+    -webkit-box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 5px dashed #d5d2ca;
+    text-align: center;
+}
+.tncp_box .rating{
+    float: left;
+    height: auto;
+}
+.tncp_box .rating ul{
+
+}
+.tncp_box .rating ul li{
+    display: inline-block;
+}
+.tncp_box .rating ul li i{
+    color: gold;
+}
+.tncp_box .downloads{
+    margin-left: 10px;
+    float: left;
+    font-size: 13px;
+}
+.tncp_box.disable h3 {
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    left: 50%;
+    font-size: 30px;
+    margin-left: -100px;
+}
+.tncp_box .button-primary {
+    margin-bottom: 5px !important;
+}
+
+.ba-footer p {
+    margin: 10px
+}
+.ba-footer .logo a {
+    margin: 0 auto;
+    display: block;
+    width: 32px;
+    height: 32px;
+}
+.tncp-info img {
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #C7C7C7;
+    padding: 15px;
+    height: 70px;
+}
+.tncp_boxes .thumb{
+    width: 35%;
+    float: left;
+    padding: 15px;
+    margin: 0 0 15px;
+    height: 115px;
+    overflow: hidden;
+}
+.tncp_boxes .thumb img{
+    max-width: 100%;
+    height: auto;
+}
+.tncp_boxes .inside{
+    float: left;
+    width: 53%;
+    margin: 0 0 15px;
+    padding: 0 15px !important;
+}
+.componnet-tns .fancybox-container{
+    z-index: 99999999999999;
+}
+.componnet-tns .postbox .inside {
+    margin-top: 10px;
+}
+.componnet-tns p.version{
+    font-size: 12px;
+}
+.componnet-tns .inside p {
+    margin: 0 0 3px !important;
+    font-size: 14px;
+    line-height: 20px;
+}
+.componnet-tns .inside p b,.componnet-tns .inside p strong{
+    font-weight: 900;
+}
+.componnet-tns #poststuff h2, .componnet-tns .metabox-holder h2.hndle, .componnet-tns .postbox .hndle, .componnet-tns .stuffbox .hndle {
+    line-height: 32px !important;
+    font-size: 14px!important;
+    font-weight: 700 !important;
+}
+.componnet-tns .wp-core-ui .button, .componnet-tns .wp-core-ui .button-primary, .componnet-tns .wp-core-ui .button-secondary {
+    height: 25px;
+    line-height: inherit !important;
+    padding: 1px 18px;
+    border-width: 0;
+}
+.componnet-tns #adminmenuwrap #adminmenu>li.menu-top {
+    padding: 0;
+    min-height: unset;
+    float: left;
+    width: 100%;
+    margin-top: 0;
+}
+.componnet-tns #adminmenuwrap #adminmenu>li.menu-top>a.menu-top{
+    line-height: 35px;
+    font-style: normal;
+    height: 35px;
+}
+.componnet-tns #adminmenuwrap #adminmenu>li.menu-top>a.menu-top > .wp-menu-image {
+    width: 46px;
+    height: 35px;
+}
+.componnet-tns #adminmenuwrap #adminmenu>li.menu-top>a.menu-top > .wp-menu-image:before {
+    line-height: 20px;
+    width: 46px;
+    height: 35px;
+    font-size: 15px;
+    text-align: center;
+    padding: 7px 0 !important;
+}
+.componnet-tns #adminmenu div.wp-menu-name {
+    padding: 8px 0 !important;
+    line-height: 20px;
+}
+.componnet-tns #wpbody .wrap h2, .componnet-tns #wpbody .wrap h1 {
+    font-size: 19px;
+    padding: 8px 14px;
+    line-height: 41px;
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.componnet-tns #adminmenu .wp-submenu-head, .componnet-tns #adminmenu a.menu-top, .componnet-tns #adminmenu .wp-has-current-submenu ul>li>a,
+.componnet-tns .folded #adminmenu li.menu-top .wp-submenu>li>a, .componnet-tns #adminmenu .wp-not-current-submenu li>a,
+.componnet-tns .folded #adminmenu .wp-has-current-submenu li>a, .componnet-tns #collapse-menu {
+    line-height: 30px !important;
+}
+.componnet-tns .wp-core-ui .button, .componnet-tns .wp-core-ui .button-secondary, .componnet-tns .wp-core-ui .button-primary,
+.componnet-tns .upload-plugin .install-help, .componnet-tns .upload-theme .install-help, .componnet-tns .wordfenceWrap input[type='button'],
+.componnet-tns .wordfenceWrap input[type='submit'] {
+    font-family: 'Open Sans' !important;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 23px !important;
+    font-style: normal;
+}
+.componnet-tns #adminmenu .wp-not-current-submenu li>a,
+.componnet-tns .folded #adminmenu .wp-has-current-submenu li>a {
+    padding: 0;
+    margin-left: 0px !important;
+    padding-left: 10px !important;
+    line-height: 35px !important;
+    line-height: 40px;
+    margin-bottom: 0px !important;
+}
+.componnet-tns .wp-core-ui .button, .componnet-tns .wp-core-ui .button-primary, .componnet-tns .wp-core-ui .button-secondary {
+    height: 30px !important;
+    line-height: 23px;
+    padding: 4px 18px !important;
+    border-width: 0;
+}
+.componnet-tns #adminmenumain #adminmenuwrap .logo-overlay,.componnet-tns #adminmenumain #adminmenuwrap:before,.componnet-tns #adminmenumain .folded #adminmenuwrap:before {
+
+    padding-top: 0px;
+    background-position: 0 5px;
+    opacity: .9;
+    background-blend-mode: multiply;
+}
+.componnet-tns button>i.dashicons, .componnet-tns button>i.dashicons-before:before {
+    line-height: 25px;
+    width: 19px;
+    height: 23px;
+    font-size: 15px;
+    text-align: center;
+}
+.toannang-component .dashicons, .toannang-component .dashicons-before:before {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    line-height: 1;
+    font-family: dashicons;
+    text-decoration: inherit;
+    font-weight: 400;
+    font-style: normal;
+    vertical-align: top;
+    text-align: center;
+    transition: color .1s ease-in;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.componnet-tns v#tab-changelog h4{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.componnet-tns #tab-changelog ul{
+    padding-left: 15px;
+}
+.componnet-tns #tab-changelog ul li{
+    list-style: initial;
+}
+.componnet-tns #tab-changelog p{
+    margin-bottom: 5px;
+}
+.delete-components{
+    text-align: right;
+}
+.delete-components button{
+    vertical-align: middle;
+    display: inline-block;
+    border: none;
+    background: #e43434;
+    color: #fff;
+    font-size: 15px;
+    line-height: 25px;
+    padding: 5px 10px;
+    margin-right: 39px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.delete-components button:hover{
+    cursor: pointer;
+}
+.delete-components button i.dashicons{
+    font-size: 25px;
+    margin-right: 5px;
+}
+.deactivate-components{
+    margin-top: 10px;
+}
+@media only screen and (max-width: 1400px) {
+    .componnet-tns .tncp_box{
+        width: 47%;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .componnet-tns .tncp_box{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .componnet-tns .tncp_box{
+        width: 100%;
+    }
+    .tncp_boxes .thumb {
+        width: 90%;
+    }
+}

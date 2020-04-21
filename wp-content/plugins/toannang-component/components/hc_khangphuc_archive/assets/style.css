@@ -1,0 +1,85 @@
+.hc-khangphuc-archive .title-archive{
+	padding: 0.5em 0;
+	margin: 0.5em 0 2em;
+	text-align: center;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #ea2712;
+	position: relative;
+}
+.hc-khangphuc-archive .title-archive:after{
+	content: '';
+	position: absolute;
+	bottom: -1px;
+	width: 70px;
+	border-bottom: 2px solid #d00;
+	margin: 0 auto;
+	right: 0;
+	left: 0;
+}
+
+.hc-khangphuc-archive .archive_item{
+	margin-bottom: 1em;
+}
+.hc-khangphuc-archive .archive_item_img{
+	width: 49%;
+	display: inline-table;
+	float: left;
+	position: relative;
+	height: 215px;
+	overflow: hidden;
+}
+.hc-khangphuc-archive .archive_item_img img{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+.hc-khangphuc-archive .archive_item_details{
+	width: 49%;
+	display: inline-table;
+	float: right;
+}
+.hc-khangphuc-archive .archive_item_name{
+	font-size: 14px;
+	font-weight: 600;
+	margin-bottom: 1em;
+	line-height: 20px;
+	text-transform: none;
+	color: #111;
+}
+.hc-khangphuc-archive .archive_item_name a:hover{
+	color: #d00;
+}
+.hc-khangphuc-archive .archive_item_excerpt{
+	font-size: 13px;
+	line-height: 19px;
+}
+.hc-khangphuc-archive .archive_item_btn{
+	text-align: right;
+	margin: 5px;
+}
+.hc-khangphuc-archive .archive_item_btn a{
+	padding: 3px 6px;
+	border: 1px solid #987b7b;
+	background-color: #ea00007d;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	border-radius: 5px;
+}
+.hc-khangphuc-archive .archive_item_btn a:hover{
+	background-color: rgba(72, 141, 234, 0.49);
+}
+
+@media only screen and (max-width: 450px){
+	.hc-khangphuc-archive .archive_item_excerpt{
+		height: 39px;
+		overflow: hidden;
+	}
+	.hc-khangphuc-archive .archive_item_img{
+		height: 155px;
+	}
+}

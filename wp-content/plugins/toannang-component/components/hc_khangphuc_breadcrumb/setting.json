@@ -1,0 +1,14 @@
+{
+  "Component Name": "HC Breadcrumb khangphuc",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Gói giao diện css partner",
+  "Version": "1.0",
+  "Author": "Hoang Cuong",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "hc-phuckhang-breadcrumb-css" : "css.css"
+        }
+}

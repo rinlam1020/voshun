@@ -1,0 +1,15 @@
+{
+  "Component Name": "Rin VoShun Tin tức - Video",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "Gói giao diện VoShun Tin tức - Video",
+  "Version": "1.69",
+  "Author": "Sa Rin",
+  "Author URI": "",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "http://documents.toannang.xyz/",
+  "assets" : {
+            "voshun-newsvideo-css" : "style.css",
+            "voshun-newsvideo-js" : "script.js"
+        }
+}

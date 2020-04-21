@@ -1,0 +1,195 @@
+.hc_khangphuc_news{
+
+    margin-bottom: 3em;
+
+}
+
+.hc_khangphuc_news .news-khangphuc-title{
+
+    position: relative;
+
+}
+
+.hc_khangphuc_news .news-khangphuc-title:before{
+
+    content: '';
+
+    width: 100%;
+
+    border-top: 2px solid #002280;
+
+    position: absolute;
+
+    top: 15px;
+
+    left: 0;
+
+}
+
+.hc_khangphuc_news .news-khangphuc-title h3{
+
+    font-size: 21px;
+
+    text-transform: uppercase;
+
+    text-align: center;
+
+    background-image: url(../images/titile-home-block.png);
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+    z-index: 1;
+
+    position: relative;
+
+    font-weight: 600;
+
+    color: #fff;
+
+    padding: 22px 0;
+
+    line-height: 30px;
+
+    margin-bottom: 1em;
+
+}
+
+.hc_khangphuc_news .news-item{
+
+    box-shadow: 1px 1px 1px #ddd;
+
+    margin-bottom: 0.5em;
+
+}
+
+.hc_khangphuc_news .news-item .news_name{
+
+    font-weight: 600;
+
+    padding: 0;
+
+    margin-bottom: 0.2em;
+
+    line-height: 19px;
+
+    font-size: 14px;
+
+}
+
+.hc_khangphuc_news .news-item .news_name a{
+
+    color: #2a449c;
+
+}
+
+.hc_khangphuc_news .news-item .news_excerpt{
+
+    padding: 0;
+
+    font-size: 13px;
+
+    line-height: 20px;
+
+    height: 40px;
+
+    overflow: hidden;
+
+}
+
+.hc_khangphuc_news .news-item .news_btn{
+
+    padding: 0.3em 1em;
+
+    font-size: 12px;
+
+}
+
+.hc_khangphuc_news .news-item .date-post{
+
+    color: #b2b2b2;
+
+}
+
+.hc_khangphuc_news .news-item .read-more{
+
+    float: right;
+
+    color: #d00;
+
+}
+
+.hc_khangphuc_news .news-item  .news_img{
+
+    width: 35%;
+
+    float: left;
+
+    margin-right: 0.5em;
+
+}
+
+
+
+.hc_khangphuc_news .news-item.first-post .news_name{
+
+    padding: 0.5em 1em;
+
+    margin-bottom: 0;
+
+    line-height: 30px;
+
+}
+
+.hc_khangphuc_news .news-item.first-post .news_img{
+
+    width: 100%;
+
+    float: none;
+
+    margin-right: 0;
+        min-height: 330px;
+
+}
+
+.hc_khangphuc_news .news-item.first-post .news_excerpt
+
+{
+
+    height: auto;
+
+    padding: 0 1em;
+
+}
+
+.hc_khangphuc_news .slick-news{
+
+    position: relative;
+
+}
+
+.hc_khangphuc_news .slick-news .slick-arrow{
+
+    position: absolute;
+
+    top: -1.2em;
+
+    font-size: 30px;
+
+    left: 50%;
+
+    right: 50%;
+
+    margin: 0 auto;
+
+    cursor: pointer;
+
+}
+
+.hc_khangphuc_news .slick-news .slick-arrow.fa-angle-down{
+
+    display: none !important;
+
+}
+

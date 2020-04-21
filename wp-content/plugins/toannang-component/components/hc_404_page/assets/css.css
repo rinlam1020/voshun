@@ -1,0 +1,45 @@
+.hc-404-page {
+	font-family: "Open Sans", sans-serif;
+	padding: 2em 0;
+}
+.hc-404-page .content-404{
+	background-color: #009995;
+}
+.hc-404-page .info {
+	padding-top: 80px;
+	padding-bottom: 50px;
+	color: #fff;
+
+	text-align: center;
+}
+.hc-404-page .info .title {
+	font-weight: bold;
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.hc-404-page .info .desc {
+	font-size: 18px;
+	line-height: 28px;
+}
+.hc-404-page .info a {
+	color: #f1ed3d;
+	text-transform: uppercase;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 10px;
+	-webkit-transition: color 0.3s ease;
+	-moz-transition: color 0.3s ease;
+	-ms-transition: color 0.3s ease;
+	-o-transition: color 0.3s ease;
+	transition: color 0.3s ease;
+}
+.hc-404-page .info a:hover {
+	color: #ffc000
+}
+@media screen and (max-width: 767px) {
+	.hc-404-page .info {
+		padding-top: 40px;
+		padding-bottom: 30px;
+	}
+}

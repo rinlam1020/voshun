@@ -1,0 +1,28 @@
+.hc_khangphuc_partner{
+    margin-top: -50px;
+    margin-bottom: 2em;
+}
+.hc_khangphuc_partner .btn-next,
+.hc_khangphuc_partner .btn-prev{
+    display: inline-table;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.hc_khangphuc_partner .btn-next{
+    background-image: url("../images/btn-next.png");
+    right: 0;
+}
+.hc_khangphuc_partner .btn-prev{
+    background-image: url("../images/btn-prev.png");
+}
+.hc_khangphuc_partner .banner_item img{
+    border: 1px solid #ece5e5;
+    box-shadow: 1px 1px 1px #d4d4d4;
+}

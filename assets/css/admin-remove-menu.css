@@ -1,0 +1,7 @@
+#contextual-help-link-wrap, .welcome-panel-close, #screen-options-link-wrap,
+#menu-media,#menu-comments,#menu-plugins,#menu-tools,#toplevel_page_edit-post_type-acf-field-group,#menu-settings,#menu-users,
+#toplevel_page_cptui_main_menu,#toplevel_page_ultra_permission_settings,#toplevel_page_toan-nang-component,#toplevel_page__ultraoptions,
+#menu-appearance,#toplevel_page_asl_settings,#wp-admin-bar-updates,#dashboard-widgets-wrap,#try-gutenberg-panel,.updraft-ad-container.updated,
+#authordiv,#slugdiv,#commentsdiv,#commentstatusdiv,#trackbacksdiv,#revisionsdiv,#thesis_redirect,#thesis_schema,#thesis_html_body,#thesis_canonical_link,#thesis_meta_robots,
+#toplevel_page_sucuriscan,#toplevel_page_aiowpsec
+{display:none;}

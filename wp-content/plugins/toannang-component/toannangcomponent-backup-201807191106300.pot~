@@ -1,0 +1,35 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Toan Nang Component\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-19 11:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "Toan Nang Component"
+msgstr ""
+
+#. Description of the plugin
+msgid "Gói mở rộng kích hoạt tính năng gói giao diện"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://toannang.com.vn"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lam Phan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/lamdeptrai"
+msgstr ""

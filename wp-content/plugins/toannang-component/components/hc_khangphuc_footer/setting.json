@@ -1,0 +1,15 @@
+{
+  "Component Name": "HC Footer khangphuc (poly)",
+  "Component URI": "https://toannang.com.vn",
+  "Description": "package footer phuckhang",
+  "Version": "1.0",
+  "Author": "Hoang Cuong",
+  "Author URI": "https://bitbucket.org/lena-tn/wordpress/src/lena/",
+  "License": "GPLv2 or later",
+  "Text Domain": "",
+  "Documentation": "https://bitbucket.org/codetoannang/component-tn/src/master/footer_vape",
+  "assets" : {
+            "hc-phuckhang-footer-css" : "style.css",
+            "hc-phuckhang-footer-js" : "js.js"
+        }
+}

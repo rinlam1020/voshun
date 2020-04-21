@@ -1,0 +1,41 @@
+.hc_khangphuc_breadcrumb{
+
+    position: relative;
+
+
+}
+
+.hc_khangphuc_breadcrumb .bread-crumbs{
+
+        width: 100%;
+    display: block;
+    position: absolute;
+    z-index: 1;
+    background: rgb(74, 169, 67);
+
+}
+
+.hc_khangphuc_breadcrumb .bread-crumbs .breadcrumbs span{
+
+    color: #fff;
+
+}
+
+.hc_khangphuc_breadcrumb img{
+
+    margin: 0 auto;
+
+    max-width: 100%;
+
+    display: block;
+
+}
+.breadcrumbs{
+    color: #fff!important;
+}
+.breadcrumbs a{
+    color: #FFF!important;
+}
+.breadcrumbs a:hover{
+    color: #000!important;
+}

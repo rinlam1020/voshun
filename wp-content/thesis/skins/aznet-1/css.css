@@ -1,0 +1,127 @@
+/*
+ * ---:[ Thesis CSS reset ]:---
+ */
+* {
+  margin: 0;
+  padding: 0;
+  word-wrap: break-word; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+img,
+fieldset {
+  border: 0; }
+
+abbr,
+acronym {
+  text-decoration: none; }
+
+code {
+  line-height: 1em; }
+
+pre {
+  overflow: auto;
+  clear: both;
+  word-wrap: normal;
+  -moz-tab-size: 4;
+  tab-size: 4; }
+
+sub,
+sup {
+  line-height: 0.5em; }
+
+img,
+.wp-caption {
+  max-width: 100%;
+  height: auto; }
+
+iframe,
+video,
+embed,
+object {
+  display: block;
+  max-width: 100%; }
+
+img {
+  display: block; }
+
+.left,
+.alignleft,
+img[align="left"] {
+  display: block;
+  float: left; }
+
+.right,
+.alignright,
+img[align="right"] {
+  display: block;
+  float: right; }
+
+.center,
+.aligncenter,
+img[align="middle"] {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  float: none;
+  clear: both; }
+
+.block,
+.alignnone {
+  display: block;
+  clear: both; }
+
+input[type="submit"],
+button {
+  cursor: pointer;
+  overflow: visible;
+  -webkit-appearance: none; }
+
+.wp-smiley {
+  display: inline; }
+
+/*
+ * ---:[ layout structure ]:---
+ */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  color: #111111;
+  background-color: white;
+  padding: 0;
+  margin: 0; }
+
+/*
+ * ---:[ links ]:---
+ */
+a {
+  color: #0e4f8f;
+  text-decoration: none; }
+
+p a {
+  text-decoration: none; }
+
+p a:hover {
+  text-decoration: none; }
+
+#site_title {
+  line-height: 0.1em; }
+
+#site_title a {
+  display: inline-block; }
